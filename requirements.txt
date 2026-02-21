@@ -1,0 +1,6 @@
+# Dependencias para Molniya Satellite Tracker
+# Instalar con: pip install -r requirements.txt
+
+skyfield>=1.48
+arrow>=1.3.0
+requests>=2.31.0

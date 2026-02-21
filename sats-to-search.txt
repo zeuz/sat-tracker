@@ -1,0 +1,35 @@
+# Satellite search file
+# One satellite per line or wildcard
+# Lines starting with # are comments
+#
+# Supported formats:
+#   - Exact name: ISS (ZARYA)
+#   - Wildcard with *: STARLINK-* (searches all matching)
+#   - Partial name: MOLNIYA
+
+# Molniya satellites (highly elliptical orbit)
+Molniya 1-93
+Molniya 1-91
+Molniya 1-90
+Molniya-3
+Molniya 3-47
+
+# Russian communication satellites
+Meridian
+Tundra
+
+# US intelligence satellites (HEO)
+SDS
+Jumpseat
+Trumpet
+
+# Arctic monitoring
+Arktika-M
+
+# Satellite radio (HEO)
+Sirius XM Radio
+FM-5
+FM-6
+
+# Japanese QZSS
+QZS
